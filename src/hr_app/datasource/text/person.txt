@@ -1,0 +1,10 @@
+1 Harry Potter
+2 Ron Weasley
+3 Hermione Granger
+4 Dudley Dursley
+5 Albus Dumbledore
+6 Luna Lovegood
+7 Minerva McGonagall
+8 Draco Malfoy
+9 Remus Lupin
+10 Sirius Black
